@@ -167,5 +167,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 > **"Physics meets AI — quantum insights through classical shadows"**
 
-```
+
 *Developed by Abdullah Al Shafin and S.M. Yousuf Iqbal Tomal.*
