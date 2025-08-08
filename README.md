@@ -49,7 +49,7 @@ Where:
 - **Qubits**: 2
 - **Circuit Depth**: 6 (2 layers × 3 gates)
 - **Trainable Parameters**: 4
-- **Quantum Layers**: Alternating RX, RY, and entangling CZ gates
+- **Quantum Layers**: Alternating RY, and entangling CZ gates
 - **Readout**: Expectation of Pauli-Z operators for phase classification
 
 ---
@@ -169,4 +169,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 
 *Developed by Abdullah Al Shafin and S.M. Yousuf Iqbal Tomal.*
+
 
